@@ -4,3 +4,4 @@ Natural Sampling
 PCM
 DM
 Line Coding 
+Attach the output graph
